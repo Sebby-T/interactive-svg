@@ -1,11 +1,11 @@
 #left-ear {
   transform-origin: 44px 50px;
-  transition: all .5s linear
+  transition: all .5s linear;
 }
 
 #right-ear {
   transform-origin: 212px 50px;
-  transition: all .5s linear
+  transition: all .5s linear;
 }
 
 #bear:hover #left-ear {
